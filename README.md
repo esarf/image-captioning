@@ -17,6 +17,7 @@ The theoretical bases and motivations are detailed in our report in the file `.p
 
 ## Preview
 
+A little foretaste of the results of the visual attention model...
+
 <img width="622" alt="Capture d’écran 2021-04-26 à 22 09 35" src="https://user-images.githubusercontent.com/55430451/116144061-293fe000-a6dc-11eb-8e43-ab7cd0491767.png">
 
-A little foretaste of the results of the visual attention model.
