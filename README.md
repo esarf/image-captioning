@@ -13,7 +13,7 @@ This repo is splitted into two parts:
 
 ## Report
 
-The theoretical bases and motivations are detailed in our report in the file `.pdf` 
+The theoretical bases and motivations are detailed in our report in the file `DLreport.pdf` 
 
 ## Preview
 
