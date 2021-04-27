@@ -1,6 +1,6 @@
 # Neural Image Captioning
 
-In this project, we propose a deep learning approach to generate automatically the caption of an image. Project done as part of the course Deep Learning; Models and Optimization taught by Marco Cuturi (Google Brain).
+In this project, we propose a deep learning approach to generate automatically the caption of an image. Project done as part of the course Deep Learning: Models and Optimization taught by Marco Cuturi (Google Brain).
 
 
 **Authors**: [Ryan Boustany](https://github.com/ryanboustany), Emma Sarfati
