@@ -24,7 +24,7 @@ A little foretaste of the results of the visual attention model...
 
 ## Google Colab
 
-If you wish to run the notebooks on your computer, you can either git clone this repo or create a copy of the Google Colab links.
-Notebook 1: https://colab.research.google.com/drive/1L3K0pHwiu0UEVfWn1njjh-MgN2IgHe_I?usp=sharing
+If you wish to run the notebooks on your computer, you can either git clone this repo or create a copy of the Google Colab links.  
+Notebook 1: https://colab.research.google.com/drive/1L3K0pHwiu0UEVfWn1njjh-MgN2IgHe_I?usp=sharing  
 Notebook 2: https://colab.research.google.com/drive/1GTyrtpoKGYDHSC9429cAhKFiTrSVZDCh?usp=sharing
 
